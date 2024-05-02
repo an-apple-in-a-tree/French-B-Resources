@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/french-b-resources/static/css/main.09091643.css",
-    "main.js": "/french-b-resources/static/js/main.6646a217.js",
+    "main.js": "/french-b-resources/static/js/main.306fb649.js",
     "static/js/453.91ee16bd.chunk.js": "/french-b-resources/static/js/453.91ee16bd.chunk.js",
     "static/media/bg2.jpeg": "/french-b-resources/static/media/bg2.2a4240316b3e46fbef4d.jpeg",
     "index.html": "/french-b-resources/index.html",
     "main.09091643.css.map": "/french-b-resources/static/css/main.09091643.css.map",
-    "main.6646a217.js.map": "/french-b-resources/static/js/main.6646a217.js.map",
+    "main.306fb649.js.map": "/french-b-resources/static/js/main.306fb649.js.map",
     "453.91ee16bd.chunk.js.map": "/french-b-resources/static/js/453.91ee16bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09091643.css",
-    "static/js/main.6646a217.js"
+    "static/js/main.306fb649.js"
   ]
 }
