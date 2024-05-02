@@ -1,2 +1,3 @@
 # Resources for French B SL
-# This website is a collection of resources for students taking IB French B SL.
+
+#Click on Home if it is not loading any content...
