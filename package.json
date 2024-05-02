@@ -1,5 +1,5 @@
 {
-  "homepage": "https://an-apple-in-a-tree.github.io/french-b-resources",
+  "homepage": "https://an-apple-in-a-tree.github.io/french-b-resources/home",
   "name": "french-b-sl-resources",
   "version": "0.1.0",
   "private": true,
@@ -44,3 +44,4 @@
     "tailwindcss": "^3.4.3"
   }
 }
+

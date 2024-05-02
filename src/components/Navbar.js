@@ -17,7 +17,7 @@ export default function Navbar() {
 
       <nav className="navbar">
         <ul className="montserrat list-none pb-3 px-4">
-          <NavLink to="/" className={navlink}>
+          <NavLink to="/home" className={navlink}>
             Home
           </NavLink>
           <NavLink to="/reading" className={navlink}>
